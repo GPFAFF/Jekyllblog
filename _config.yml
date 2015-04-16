@@ -3,7 +3,7 @@ title: Greg Pfaff
 email: Greg.Pfaff@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  The musing and ramblings of a Front End Developer trying to learn and create awesome shit for everyone.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://gpfaff.github.io/Jekyllblog/" # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: thegpfaff
 github_username:  gpfaff
