@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Brand New Blog"
+date:   2015-04-14 09:30:34
+categories: Tech Stuff	
+---
+ 
+ Experiementing with Jekyll.  Starting to learn Ruby and other back end scripting languages.  Will use this to document what I am learning. 
+
+{% gist parkr/931c1c8d465a04042403 %}
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
